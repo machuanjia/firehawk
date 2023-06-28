@@ -1,0 +1,22 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "machuanjia <yanshi0429@126.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/server.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "http://npm.yhroot.com/"
+  },
+  "scripts": {
+    "test": "node ./__tests__/server.test.js"
+  }
+}
