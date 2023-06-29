@@ -18,3 +18,21 @@ lerna clean --scope=client
 
 ```
 
+
+### VSCODE插件
+
+```
+volar
+https://marketplace.visualstudio.com/items?itemName=Vue.volar
+```
+
+### 打包工具vite
+```
+https://cn.vitejs.dev/guide/
+```
+
+
+#### ts
+```
+https://cn.vuejs.org/guide/typescript/overview.html
+```
